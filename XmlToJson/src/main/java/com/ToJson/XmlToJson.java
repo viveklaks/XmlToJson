@@ -12,7 +12,7 @@ public class XmlToJson {
 			String xml="";
 			try{
 				Integer count = 0;
-			      File myObj = new File("/Users/Pragati/Desktop/DevOps/microservices-java/excel_to_json/SampleXml.xml");
+			      File myObj = new File("SampleXml.xml");
 			      Scanner myReader = new Scanner(myObj);
 			      while (myReader.hasNextLine()) {
 			        String Wxml = myReader.nextLine();
