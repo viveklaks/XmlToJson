@@ -1,0 +1,137 @@
+[
+  {
+     "Serial Number":"1"       "Organization":"Eldon Base for stackable storage shelf, platinum"       "Manager":"Muhammed MacIntyre"       "Manager Id":"3.0"       "Points":"38.94"       "Region":"Nunavut"       "Department":"Storage & Organization"   }
+  ,  {
+     "Serial Number":"2"       "Organization":"1.7 Cubic Foot Compact "Cube" Office Refrigerators"       "Manager":"Barry French"       "Manager Id":"293.0"       "Points":"208.16"       "Region":"Nunavut"       "Department":"Appliances"   }
+  ,  {
+     "Serial Number":"3"       "Organization":"Cardinal Slant-D® Ring Binder, Heavy Gauge Vinyl"       "Manager":"Barry French"       "Manager Id":"293.0"       "Points":"8.69"       "Region":"Nunavut"       "Department":"Binders and Binder Accessories"   }
+  ,  {
+     "Serial Number":"4"       "Organization":"R380"       "Manager":"Clay Rozendal"       "Manager Id":"483.0"       "Points":"195.99"       "Region":"Nunavut"       "Department":"Telephones and Communication"   }
+  ,  {
+     "Serial Number":"5"       "Organization":"Holmes HEPA Air Purifier"       "Manager":"Carlos Soltero"       "Manager Id":"515.0"       "Points":"21.78"       "Region":"Nunavut"       "Department":"Appliances"   }
+  ,  {
+     "Serial Number":"6"       "Organization":"G.E. Longer-Life Indoor Recessed Floodlight Bulbs"       "Manager":"Carlos Soltero"       "Manager Id":"515.0"       "Points":"6.64"       "Region":"Nunavut"       "Department":"Office Furnishings"   }
+  ,  {
+     "Serial Number":"7"       "Organization":"Angle-D Binders with Locking Rings, Label Holders"       "Manager":"Carl Jackson"       "Manager Id":"613.0"       "Points":"7.3"       "Region":"Nunavut"       "Department":"Binders and Binder Accessories"   }
+  ,  {
+     "Serial Number":"8"       "Organization":"SAFCO Mobile Desk Side File, Wire Frame"       "Manager":"Carl Jackson"       "Manager Id":"613.0"       "Points":"42.76"       "Region":"Nunavut"       "Department":"Storage & Organization"   }
+  ,  {
+     "Serial Number":"9"       "Organization":"SAFCO Commercial Wire Shelving, Black"       "Manager":"Monica Federle"       "Manager Id":"643.0"       "Points":"138.14"       "Region":"Nunavut"       "Department":"Storage & Organization"   }
+  ,  {
+     "Serial Number":"10"       "Organization":"Xerox 198"       "Manager":"Dorothy Badders"       "Manager Id":"678.0"       "Points":"4.98"       "Region":"Nunavut"       "Department":"Paper"   }
+  ,  {
+     "Serial Number":"11"       "Organization":"Xerox 1980"       "Manager":"Neola Schneider"       "Manager Id":"807.0"       "Points":"4.28"       "Region":"Nunavut"       "Department":"Paper"   }
+  ,  {
+     "Serial Number":"12"       "Organization":"Advantus Map Pennant Flags and Round Head Tacks"       "Manager":"Neola Schneider"       "Manager Id":"807.0"       "Points":"3.95"       "Region":"Nunavut"       "Department":"Rubber Bands"   }
+  ,  {
+     "Serial Number":"13"       "Organization":"Holmes HEPA Air Purifier"       "Manager":"Carlos Daly"       "Manager Id":"868.0"       "Points":"21.78"       "Region":"Nunavut"       "Department":"Appliances"   }
+  ,  {
+     "Serial Number":"14"       "Organization":"DS/HD IBM Formatted Diskettes, 200/Pack - Staples"       "Manager":"Carlos Daly"       "Manager Id":"868.0"       "Points":"47.98"       "Region":"Nunavut"       "Department":"Computer Peripherals"   }
+  ,  {
+     "Serial Number":"15"       "Organization":"Wilson Jones 1" Hanging DublLock® Ring Binders"       "Manager":"Claudia Miner"       "Manager Id":"933.0"       "Points":"5.28"       "Region":"Nunavut"       "Department":"Binders and Binder Accessories"   }
+  ,  {
+     "Serial Number":"16"       "Organization":"Ultra Commercial Grade Dual Valve Door Closer"       "Manager":"Neola Schneider"       "Manager Id":"995.0"       "Points":"39.89"       "Region":"Nunavut"       "Department":"Office Furnishings"   }
+  ,  {
+     "Serial Number":"17"       "Organization":"#10-4 1/8" x 9 1/2" Premium Diagonal Seam Envelopes"       "Manager":"Allen Rosenblatt"       "Manager Id":"998.0"       "Points":"15.74"       "Region":"Nunavut"       "Department":"Envelopes"   }
+  ,  {
+     "Serial Number":"18"       "Organization":"Hon 4-Shelf Metal Bookcases"       "Manager":"Sylvia Foulston"       "Manager Id":"1154.0"       "Points":"100.98"       "Region":"Nunavut"       "Department":"Bookcases"   }
+  ,  {
+     "Serial Number":"19"       "Organization":"Lesro Sheffield Collection Coffee Table, End Table, Center Table, Corner Table"       "Manager":"Sylvia Foulston"       "Manager Id":"1154.0"       "Points":"71.37"       "Region":"Nunavut"       "Department":"Tables"   }
+  ,  {
+     "Serial Number":"20"       "Organization":"g520"       "Manager":"Jim Radford"       "Manager Id":"1344.0"       "Points":"65.99"       "Region":"Nunavut"       "Department":"Telephones and Communication"   }
+  ,  {
+     "Serial Number":"21"       "Organization":"LX 788"       "Manager":"Jim Radford"       "Manager Id":"1344.0"       "Points":"155.99"       "Region":"Nunavut"       "Department":"Telephones and Communication"   }
+  ,  {
+     "Serial Number":"22"       "Organization":"Avery 52"       "Manager":"Carlos Soltero"       "Manager Id":"1412.0"       "Points":"3.69"       "Region":"Nunavut"       "Department":"Labels"   }
+  ,  {
+     "Serial Number":"23"       "Organization":"Plymouth Boxed Rubber Bands by Plymouth"       "Manager":"Carlos Soltero"       "Manager Id":"1412.0"       "Points":"4.71"       "Region":"Nunavut"       "Department":"Rubber Bands"   }
+  ,  {
+     "Serial Number":"24"       "Organization":"GBC Pre-Punched Binding Paper, Plastic, White, 8-1/2" x 11""       "Manager":"Carl Ludwig"       "Manager Id":"1539.0"       "Points":"15.99"       "Region":"Nunavut"       "Department":"Binders and Binder Accessories"   }
+  ,  {
+     "Serial Number":"25"       "Organization":"Maxell 3.5" DS/HD IBM-Formatted Diskettes, 10/Pack"       "Manager":"Carl Ludwig"       "Manager Id":"1539.0"       "Points":"4.89"       "Region":"Nunavut"       "Department":"Computer Peripherals"   }
+  ,  {
+     "Serial Number":"26"       "Organization":"Newell 335"       "Manager":"Don Miller"       "Manager Id":"1540.0"       "Points":"2.88"       "Region":"Nunavut"       "Department":"Pens & Art Supplies"   }
+  ,  {
+     "Serial Number":"27"       "Organization":"SANFORD Liquid Accent™ Tank-Style Highlighters"       "Manager":"Annie Cyprus"       "Manager Id":"1702.0"       "Points":"2.84"       "Region":"Nunavut"       "Department":"Pens & Art Supplies"   }
+  ,  {
+     "Serial Number":"28"       "Organization":"Canon PC940 Copier"       "Manager":"Carl Ludwig"       "Manager Id":"1761.0"       "Points":"449.99"       "Region":"Nunavut"       "Department":"Copiers and Fax"   }
+  ,  {
+     "Serial Number":"29"       "Organization":"Tenex Personal Project File with Scoop Front Design, Black"       "Manager":"Carlos Soltero"       "Manager Id":"1792.0"       "Points":"13.48"       "Region":"Nunavut"       "Department":"Storage & Organization"   }
+  ,  {
+     "Serial Number":"30"       "Organization":"Col-Erase® Pencils with Erasers"       "Manager":"Grant Carroll"       "Manager Id":"2275.0"       "Points":"6.08"       "Region":"Nunavut"       "Department":"Pens & Art Supplies"   }
+  ,  {
+     "Serial Number":"31"       "Organization":"Imation 3.5" DS/HD IBM Formatted Diskettes, 10/Pack"       "Manager":"Don Miller"       "Manager Id":"2277.0"       "Points":"5.98"       "Region":"Nunavut"       "Department":"Computer Peripherals"   }
+  ,  {
+     "Serial Number":"32"       "Organization":"White Dual Perf Computer Printout Paper, 2700 Sheets, 1 Part, Heavyweight, 20 lbs., 14 7/8 x 11"       "Manager":"Don Miller"       "Manager Id":"2277.0"       "Points":"40.99"       "Region":"Nunavut"       "Department":"Paper"   }
+  ,  {
+     "Serial Number":"33"       "Organization":"Self-Adhesive Address Labels for Typewriters by Universal"       "Manager":"Alan Barnes"       "Manager Id":"2532.0"       "Points":"7.31"       "Region":"Nunavut"       "Department":"Labels"   }
+  ,  {
+     "Serial Number":"34"       "Organization":"Accessory37"       "Manager":"Alan Barnes"       "Manager Id":"2532.0"       "Points":"20.99"       "Region":"Nunavut"       "Department":"Telephones and Communication"   }
+  ,  {
+     "Serial Number":"35"       "Organization":"Fuji 5.2GB DVD-RAM"       "Manager":"Jack Garza"       "Manager Id":"2631.0"       "Points":"40.96"       "Region":"Nunavut"       "Department":"Computer Peripherals"   }
+  ,  {
+     "Serial Number":"36"       "Organization":"Bevis Steel Folding Chairs"       "Manager":"Julia West"       "Manager Id":"2757.0"       "Points":"95.95"       "Region":"Nunavut"       "Department":"Chairs & Chairmats"   }
+  ,  {
+     "Serial Number":"37"       "Organization":"Avery Binder Labels"       "Manager":"Eugene Barchas"       "Manager Id":"2791.0"       "Points":"3.89"       "Region":"Nunavut"       "Department":"Binders and Binder Accessories"   }
+  ,  {
+     "Serial Number":"38"       "Organization":"Hon Every-Day® Chair Series Swivel Task Chairs"       "Manager":"Eugene Barchas"       "Manager Id":"2791.0"       "Points":"120.98"       "Region":"Nunavut"       "Department":"Chairs & Chairmats"   }
+  ,  {
+     "Serial Number":"39"       "Organization":"IBM Multi-Purpose Copy Paper, 8 1/2 x 11", Case"       "Manager":"Eugene Barchas"       "Manager Id":"2791.0"       "Points":"30.98"       "Region":"Nunavut"       "Department":"Paper"   }
+  ,  {
+     "Serial Number":"40"       "Organization":"Global Troy™ Executive Leather Low-Back Tilter"       "Manager":"Edward Hooks"       "Manager Id":"2976.0"       "Points":"500.98"       "Region":"Nunavut"       "Department":"Chairs & Chairmats"   }
+  ,  {
+     "Serial Number":"41"       "Organization":"XtraLife® ClearVue™ Slant-D® Ring Binders by Cardinal"       "Manager":"Brad Eason"       "Manager Id":"3232.0"       "Points":"7.84"       "Region":"Nunavut"       "Department":"Binders and Binder Accessories"   }
+  ,  {
+     "Serial Number":"42"       "Organization":"Computer Printout Paper with Letter-Trim Perforations"       "Manager":"Nicole Hansen"       "Manager Id":"3524.0"       "Points":"18.97"       "Region":"Nunavut"       "Department":"Paper"   }
+  ,  {
+     "Serial Number":"43"       "Organization":"6160"       "Manager":"Dorothy Wardle"       "Manager Id":"3908.0"       "Points":"115.99"       "Region":"Nunavut"       "Department":"Telephones and Communication"   }
+  ,  {
+     "Serial Number":"44"       "Organization":"Avery 49"       "Manager":"Aaron Bergman"       "Manager Id":"4132.0"       "Points":"2.88"       "Region":"Nunavut"       "Department":"Labels"   }
+  ,  {
+     "Serial Number":"45"       "Organization":"Hoover Portapower™ Portable Vacuum"       "Manager":"Jim Radford"       "Manager Id":"4612.0"       "Points":"4.48"       "Region":"Nunavut"       "Department":"Appliances"   }
+  ,  {
+     "Serial Number":"46"       "Organization":"Timeport L7089"       "Manager":"Annie Cyprus"       "Manager Id":"4676.0"       "Points":"125.99"       "Region":"Nunavut"       "Department":"Telephones and Communication"   }
+  ,  {
+     "Serial Number":"47"       "Organization":"Avery 510"       "Manager":"Annie Cyprus"       "Manager Id":"4676.0"       "Points":"3.75"       "Region":"Nunavut"       "Department":"Labels"   }
+  ,  {
+     "Serial Number":"48"       "Organization":"Xerox 1881"       "Manager":"Annie Cyprus"       "Manager Id":"4676.0"       "Points":"12.28"       "Region":"Nunavut"       "Department":"Paper"   }
+  ,  {
+     "Serial Number":"49"       "Organization":"LX 788"       "Manager":"Annie Cyprus"       "Manager Id":"4676.0"       "Points":"155.99"       "Region":"Nunavut"       "Department":"Telephones and Communication"   }
+  ,  {
+     "Serial Number":"50"       "Organization":"Cardinal Slant-D® Ring Binder, Heavy Gauge Vinyl"       "Manager":"Annie Cyprus"       "Manager Id":"5284.0"       "Points":"8.69"       "Region":"Nunavut"       "Department":"Binders and Binder Accessories"   }
+  ,  {
+     "Serial Number":"51"       "Organization":"Memorex 4.7GB DVD-RAM, 3/Pack"       "Manager":"Clay Rozendal"       "Manager Id":"5316.0"       "Points":"31.78"       "Region":"Nunavut"       "Department":"Computer Peripherals"   }
+  ,  {
+     "Serial Number":"52"       "Organization":"Unpadded Memo Slips"       "Manager":"Don Jones"       "Manager Id":"5409.0"       "Points":"3.98"       "Region":"Nunavut"       "Department":"Paper"   }
+  ,  {
+     "Serial Number":"53"       "Organization":"Adams Telephone Message Book W/Dividers/Space For Phone Numbers, 5 1/4"X8 1/2", 300/Messages"       "Manager":"Beth Thompson"       "Manager Id":"5506.0"       "Points":"5.88"       "Region":"Nunavut"       "Department":"Paper"   }
+  ,  {
+     "Serial Number":"54"       "Organization":"Eldon Expressions™ Desk Accessory, Wood Pencil Holder, Oak"       "Manager":"Frank Price"       "Manager Id":"5569.0"       "Points":"9.65"       "Region":"Nunavut"       "Department":"Office Furnishings"   }
+  ,  {
+     "Serial Number":"55"       "Organization":"Bell Sonecor JB700 Caller ID"       "Manager":"Michelle Lonsdale"       "Manager Id":"5607.0"       "Points":"7.99"       "Region":"Nunavut"       "Department":"Telephones and Communication"   }
+  ,  {
+     "Serial Number":"56"       "Organization":"Avery Arch Ring Binders"       "Manager":"Ann Chong"       "Manager Id":"5894.0"       "Points":"58.1"       "Region":"Nunavut"       "Department":"Binders and Binder Accessories"   }
+  ,  {
+     "Serial Number":"57"       "Organization":"APC 7 Outlet Network SurgeArrest Surge Protector"       "Manager":"Ann Chong"       "Manager Id":"5894.0"       "Points":"80.48"       "Region":"Nunavut"       "Department":"Appliances"   }
+  ,  {
+     "Serial Number":"58"       "Organization":"Deflect-o RollaMat Studded, Beveled Mat for Medium Pile Carpeting"       "Manager":"Joy Bell"       "Manager Id":"5925.0"       "Points":"92.23"       "Region":"Nunavut"       "Department":"Office Furnishings"   }
+  ,  {
+     "Serial Number":"59"       "Organization":"Accessory4"       "Manager":"Joy Bell"       "Manager Id":"5925.0"       "Points":"85.99"       "Region":"Nunavut"       "Department":"Telephones and Communication"   }
+  ,  {
+     "Serial Number":"60"       "Organization":"Personal Creations™ Ink Jet Cards and Labels"       "Manager":"Skye Norling"       "Manager Id":"6016.0"       "Points":"11.48"       "Region":"Nunavut"       "Department":"Paper"   }
+  ,  {
+     "Serial Number":"61"       "Organization":"High Speed Automatic Electric Letter Opener"       "Manager":"Barry Weirich"       "Manager Id":"6116.0"       "Points":"1637.53"       "Region":"Nunavut"       "Department":"Scissors, Rulers and Trimmers"   }
+  ,  {
+     "Serial Number":"62"       "Organization":"Xerox 1966"       "Manager":"Grant Carroll"       "Manager Id":"6182.0"       "Points":"6.48"       "Region":"Nunavut"       "Department":"Paper"   }
+  ,  {
+     "Serial Number":"63"       "Organization":"Xerox 213"       "Manager":"Grant Carroll"       "Manager Id":"6182.0"       "Points":"6.48"       "Region":"Nunavut"       "Department":"Paper"   }
+  ,  {
+     "Serial Number":"64"       "Organization":"Boston Electric Pencil Sharpener, Model 1818, Charcoal Black"       "Manager":"Adrian Hane"       "Manager Id":"6535.0"       "Points":"28.15"       "Region":"Nunavut"       "Department":"Pens & Art Supplies"   }
+  ,  {
+     "Serial Number":"65"       "Organization":"Hammermill CopyPlus Copy Paper (20Lb. and 84 Bright)"       "Manager":"Skye Norling"       "Manager Id":"6884.0"       "Points":"4.98"       "Region":"Nunavut"       "Department":"Paper"   }
+  ,  {
+     "Serial Number":"66"       "Organization":"Telephone Message Books with Fax/Mobile Section, 5 1/2" x 3 3/16""       "Manager":"Skye Norling"       "Manager Id":"6884.0"       "Points":"6.35"       "Region":"Nunavut"       "Department":"Paper"   }
+  ,  {
+     "Serial Number":"67"       "Organization":"Crate-A-Files™"       "Manager":"Andrew Gjertsen"       "Manager Id":"6916.0"       "Points":"10.9"       "Region":"Nunavut"       "Department":"Storage & Organization"   }
+  ,  {
+     "Serial Number":"68"       "Organization":"Angle-D Binders with Locking Rings, Label Holders"       "Manager":"Ralph Knight"       "Manager Id"
